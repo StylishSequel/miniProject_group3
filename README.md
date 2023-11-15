@@ -1,1 +1,1 @@
-# miniproject
+# miniProject group 3
